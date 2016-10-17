@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Platzigramv2</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña de usuario</string>
+    <string name="text_button_login">Iniciar sesión</string>
+    <string name="dont_have_account">¿No tienes cuenta?</string>
+    <string name="create_here">, Crear una aquí</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_nickname">Usuario</string>
+    <string name="hint_re_password">Confirmar contraseña</string>
+    <string name="join_us">Únete</string>
+    <string name="toolbar_title_create_account">Crear cuenta</string>
 </resources>
