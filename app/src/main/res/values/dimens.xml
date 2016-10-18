@@ -6,4 +6,5 @@
     <dimen name="editTextSizeLogin">22sp</dimen>
     <dimen name="textsize_dont_have_account">16sp</dimen>
     <dimen name="edittext_createaccount">10dp</dimen>
+    <dimen name="height_cardView">200dp</dimen>
 </resources>
