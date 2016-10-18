@@ -10,4 +10,6 @@
     <color name="divider">#BDBDBD</color>
     <color name="editTextColorWhite">#FFFFFF</color>
     <color name="editTextColorBlack">#000</color>
+    <color name="backgrount_textCard">#53292929</color>
+
 </resources>
